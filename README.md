@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there 👋, Welcome to my GitHub profile ! I'm Ilan, a french passionate developper.
+
+- 🎓 I'm currently studding at **[Coding Factory by ESIEE Tech - Cergy](https://codingfactory.fr/)**
+
+- 💻 I'm using : Java, Python, HTML5, CSS3, JavaScript, ReactJS, JavaFX.
+
+- 💬 My main language is French but a try my best to speak and wright in english 
+
+## 📊 My stats
+
+[![GitHub stat's](https://github-readme-stats.vercel.app/api?username=IlanHopti&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlanHopti&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true)
+
 
 <!--
 **IlanHopti/IlanHopti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
