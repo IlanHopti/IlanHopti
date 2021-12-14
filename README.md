@@ -1,5 +1,7 @@
 ### Hi there 👋, Welcome to my GitHub profile ! I'm Ilan, a french passionate developper.
 
+## 🙋🏽‍♂️ About me
+
 - 🎓 I'm currently studding at **[Coding Factory by ESIEE Tech - Cergy](https://codingfactory.fr/)**
 
 - 💻 I'm using : Java, Python, HTML5, CSS3, JavaScript, ReactJS, JavaFX.
