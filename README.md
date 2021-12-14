@@ -1,5 +1,7 @@
 ### Hi there 👋, Welcome to my GitHub profile ! I'm Ilan, a french passionate developper.
 
+![](https://cdn.discordapp.com/attachments/682838834370707506/920333381273788436/icegif-87.gif)
+
 ## 🙋🏽‍♂️ About me
 
 - 🎓 I'm currently studding at **[Coding Factory by ESIEE Tech - Cergy](https://codingfactory.fr/)**
