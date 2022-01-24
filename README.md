@@ -8,7 +8,7 @@
 
 - 💻 I'm using : Java, Python, HTML5, CSS3, JavaScript, ReactJS, JavaFX.
 
-- 💬 My main language is French but a try my best to speak and write in english 
+- 💬 My main language is French but i try my best to speak and write in english 
 
 ## 📊 My stats
 
